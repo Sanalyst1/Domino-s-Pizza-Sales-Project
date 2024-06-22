@@ -1,18 +1,16 @@
-# Domino-s-Pizza-Sales-Project
-
-SQL-Pizza-Sales-Analysis
+**SQL-Pizza-Sales-Analysis**
 Project Overview:
 
 This project uses SQL to analyse a pizza sales dataset in order to gain significant insights regarding sales operations. This comprises consumer segmentation, trends, artist effectiveness, customer preferences, spending habits, and revenue growth.
 
-Project Objectives:
+P**roject Objectives:**
 
-Evaluate the performance of different pizza categories.
-Understand peak order times and customer interests.
-Gather information on average daily sales.
-Extract valuable insights from pizza sales data.
-Features:
-
+  Evaluate the performance of different pizza categories.
+  Understand peak order times and customer interests.
+  Gather information on average daily sales.
+  Extract valuable insights from pizza sales data.
+  
+**Features:**
 Database Creation: Scripts for creating and initializing the database.
 Complex Queries: Advanced SQL queries, including joins, subqueries, and aggregations.
 Data Analysis: Analytical queries to derive insights from the data.
